@@ -11,7 +11,10 @@ public class car {
 		this.e1=e;
 		this.b1=b;
 	}
-	public int getCar(){
+	public int getCap(){
 		return this.e1.capacity;
+	}
+	public int getbr(){
+		return this.b1.i;
 	}
 }
